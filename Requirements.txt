@@ -1,0 +1,10 @@
+Flask
+tensorflow
+tensorflow-addons
+requests
+beautifulsoup4
+pandas
+numpy
+lxml
+gunicorn
+gevent
