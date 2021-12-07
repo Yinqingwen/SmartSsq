@@ -55,7 +55,6 @@ def spider(start, end, mode):
     elif mode == "predict":
         return pd.DataFrame(data)
 
-
 if __name__ == "__main__":
     print("[INFO] 最新一期期号：{}".format(get_current_number()))
     print("[INFO] 正在获取数据。。。")
